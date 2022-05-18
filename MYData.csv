@@ -1,0 +1,2000 @@
+id,name,price,quantity
+1,Consomme printaniere royal,0.4,1
+2,Chicken gumbo,0.8,1
+3,Tomato aux croutons,0.4,1
+4,Onion au gratin,1,2
+5,St. Emilion,18,2
+6,Radishes,25,2
+7,Chicken soup with rice,0.6,1
+8,Clam broth (cup),0.4,1
+9,"Cream of new asparagus, croutons",10,5
+10,Clear green turtle,60,1
+11,"Striped bass saute, meuniere",10,1
+12,Anchovies,30,1
+13,Fresh lobsters in every style,10,3
+14,Celery,50,1
+15,Pim-olas,35,1
+16,Caviar,75,1
+17,Sardines,50,1
+18,India chutney,0.2,1
+19,Pickles,10,5
+20,English walnuts,0.3,5
+21,Pate de foies-gras,1,1
+22,Pomard,5,1
+23,"Brook trout, mountain style",10,1
+24,"Whitebait, sauce tartare",0.75,1
+25,Clams,0.9,1
+26,Oysters,35,3
+27,Claremont planked shad,2.5,2
+28,G. H. Mumm & Co's Extra Dry,4,2
+29,Cerealine with Milk,10,2
+30,Sliced Bananas,15,8
+31,Wheat Vitos,10,1
+32,Sliced Tomatoes,25,6
+33,Russian Caviare on Toast,5,1
+34,Smoked beef in cream,0.9,1
+35,Apple Sauce,20,1
+36,Potage a la Victoria,5,1
+37,Breakfast eggs,1,1
+38,Strawberries,50,10
+39,Preserved figs,30,1
+40,BLUE POINTS,50,1
+41,CONSOMME ANGLAISE,0.25,2
+42,CREAM OF CAULIFLOWER,0.5,2
+43,"BROILED SHAD, A LA MAITRE D'HOTEL",10,2
+44,SLICED CUCUMBERS,25,5
+45,SALTED ALMONDS,10,10
+46,"POTATOES, JULIEN",10,10
+47,Cracked Wheat,0.3,1
+48,Malt Breakfast Food,0.35,1
+49,"BOILED BEEF TONGUE, ITALIAN SAUCE",10,1
+50,Young Onions,10,1
+51,Pears,50,1
+52,"ROAST SIRLOIN OF BEEF, YORKSHIRE PUDDING",0.75,1
+53,Huhnerbruhe,10,1
+54,"ROAST EASTER LAMB, MINT SAUCE",10,1
+55,Rockaways,50,1
+56,Hafergrutze,5,1
+57,BROWNED POTATOES,20,5
+58,Pampelmuse,10,2
+59,Apfelsinen,5,2
+60,Ananas,0.95,2
+61,Milchreis,5,2
+62,Grape fruit,2540,2
+63,Oranges,25,2
+64,Clam Fritters,50,2
+65,Filet v. Schildkrote m. Truffeln,10,1
+66,"Bouillon, en Tasse",0.25,1
+67,Spargel Suppe,10,1
+68,"Kraftsuppe, konigliche Art",10,1
+69,Rissoles a la Merrill,10,1
+70,S. Julien,1.5,1
+71,Chambertin,250,1
+72,St. Julien,175,1
+73,Vegetable,1.75,1
+74,Puree of split peas aux croutons,0.35,1
+75,Consomme in cup,20,2
+76,"Broiled shad, Maitre d'hotel",0.9,5
+77,Mashed potatoes,15,4
+78,Breaded veal cutlet with peas,10,1
+79,Hind-quarter of spring lamb with stuffed tomatoes,10,1
+80,Hot or cold ribs of beef,5,1
+81,Doucette salad,10,1
+82,New beets,0.5,1
+83,Salisbury steak au cresson,10,1
+84,Boiled rice,25,1
+85,Stewed oyster plant,0.4,1
+86,"Boiled onions, cream sauce",0.45,1
+87,Old fashioned rice pudding,0.3,1
+88,Ice cream,20,1
+89,Coffee,30,1
+90,Tea,25,1
+91,Milk,45,1
+92,Mush,0.15,1
+93,Rolled Oats,0.35,3
+94,Small Hominy,10,5
+95,Broiled Mackerel,2.5,1
+96,Kippered Herring,0.85,2
+97,Strawberries with cream,65,1
+98,Compote of fruits,1.15,4
+99,Orange marmalade,4.5,5
+100,Baked apples with cream,20,5
+101,Bananas,25,3
+102,Bananas with cream,0.5,5
+103,Austern in der Schale,10,5
+104,Stewed prunes,20,1
+105,Fruit,40,1
+106,Grapes,125,2
+107,Honey in comb,0.4,4
+108,Apples,25,3
+109,Oranges sliced,0.25,3
+110,Stewed tomatoes,25,5
+111,Large pot of coffee,0.2,2
+112,Cup of coffee (served in small pot),10,4
+113,Large pot of Oolong tea,0.2,1
+114,Pot of chocolate,20,4
+115,Pitcher of milk,0.15,4
+116,Pot of broma,0.25,1
+117,"Suppe, Schlossherrin Art",10,4
+118,"Eggs, boiled [2]",0.25,1
+119,Sliced Bananas and Cream,0.45,4
+120,Baked Apples and Cream,40,5
+121,Pettijohn Breakfast Food,10,2
+122,Quaker Oats,0.25,2
+123,Hotch potch von Ochsenschwanazen,10,1
+124,Sugar Cured Ham,4.15,1
+125,"PINE APPLE FRITTERS, SAUCE MARASCHINO",10,1
+126,Planked shad,150,1
+127,"Baked bluefish, Duxelle",0.6,2
+128,Consomme aux Quenelle's,5,1
+129,Milk rice,5,1
+130,Mohren Suppe mit Sago,10,3
+131,French rolls,5,4
+132,Milk rolls,0.1,2
+133,Corn muffins,0.6,1
+134,Omelette aux fines herbes,0.7,4
+135,Boiled eggs,20,3
+136,Bacon and eggs,25,1
+137,Fish cakes,15,4
+138,Food,10,1
+139,Shreaded Wheat,10,4
+140,Clam cocktail,25,1
+141,Oyster cocktail,30,5
+142,Little Neck clams,50,3
+143,Stuffed olives,50,2
+144,Lalla Rookh,40,2
+145,Malaga grapes,40,4
+146,Martineaus,0.4,5
+147,Oatmeal,20,4
+148,hominy with milk,10,4
+149,Baked apples,20,4
+150,"PATTIES OF SWEET BREADS, A LA TOULOUSE",10,5
+151,"Chicken broth, per cup",0.3,2
+152,"Terrapin, Maryland",350,1
+153,Sardines on toast,0.5,1
+154,English snipe,60,2
+155,Charlotte Russe,30,2
+156,Tutti frutti,25,2
+157,Lady fingers,15,5
+158,Marrow bones on toast,10,5
+159,Fresh mushrooms on toast,50,1
+160,Farm Sausage,10,4
+161,Club sandwich,40,3
+162,Baked Stuffed Mullet & Sauce Pomard,5,4
+163,Thon marine,0.5,4
+164,Croquettes of sweetbreads,1,2
+165,Teal duck,125,2
+166,Demi-tasse,15,5
+167,Strawberry,4.25,5
+168,Oyster Bay asparagus,75,4
+169,"SMALL TENDERLOIN STEAK, A LA STANLEY",10,4
+170,Hoot Mon Mush,10,1
+171,Apollinoris,0.62,3
+172,Vve Cliquot,7,5
+173,Chicken broth,50,4
+174,Fruits in Season,3.95,3
+175,"Salt Codfish, Spanish Style",10,1
+176,Oatmeal Porridge,0.15,5
+177,Mashed Hominy,10,5
+178,Plain Omelette,15,3
+179,"Canape, Martha",0.65,3
+180,Puree of beans,0.1,5
+181,Fried Flounders,15,3
+182,Strawberry short cake,125,4
+183,Fried smelts,2.5,5
+184,Fried fish,1.75,2
+185,Oxford Sausage,1.2,4
+186,BUZZARD BAY OYSTERS,0.6,2
+187,Strained gumbo,30,4
+188,Bouillon in cup,0.15,2
+189,Queen olives,15,5
+190,Chow chow,20,3
+191,"Panfish, Meuniere",10,2
+192,German fried potatoes,0.5,4
+193,Ribs of prime beef,50,3
+194,"Calf's tongue, caper sauce",10,5
+195,Luncheon,0.65,3
+196,Assorted cakes,30,3
+197,"Scollops en caisse, Supreme",0.4,4
+198,Irish stew,0.5,5
+199,"Marrow on toast, Bordelaise",10,4
+200,Lobster salad,100,4
+201,Potato salad,25,4
+202,Chicken salad,100,4
+203,Spinach with egg,20,4
+204,Boiled potatoes,20,4
+205,Baba au rhum,25,4
+206,Hot buns,0.1,4
+207,Tongue,95,4
+208,Lemon ice cream,25,3
+209,Pickled lambs' tongues,0.5,1
+210,Blackberry tarts,0.15,1
+211,Apricots,0.75,4
+212,Red currant jam,0.15,5
+213,Chipped beef,40,1
+214,Turkey,80,3
+215,Crackers,10,2
+216,Chocolate,30,1
+217,Roast beef,75,1
+218,Corned beef,50,3
+219,Boned capon,60,2
+220,Lamb,60,1
+221,Cumberland ham,10,4
+222,Chicken,125,2
+223,Fried Eggs,20,4
+224,Broiled Ham,25,2
+225,Roast veal,20,2
+226,Rolls,2.5,5
+227,Griddle cakes,3.85,5
+228,Porterhouse Steak,5,5
+229,Pommes de Terre a la Creme,0.3,4
+230,Tenderloin Steak,80,4
+231,Sirloin Steak,235,1
+232,"Filet mignon, Lyonnaise",10,2
+233,All Kinds of Pies per cut,0.05,2
+234,Sandwiches of all Kinds,10,1
+235,Small Steak,75,1
+236,Hamburger Steak,20,1
+237,Veal Chops or Cutlets,0.5,5
+238,Pork Chops,40,2
+239,Ham & Eggs,4.95,3
+240,Bacon & Eggs,4.75,1
+241,Fried Liver,10,4
+242,German Pancake,3.95,5
+243,Oysters & Clams,10,4
+244,Stewed,15,3
+245,Box Stew,40,2
+246,Hominy,0.35,2
+247,Omelette a l'Oseille,10,3
+248,Eggs au Beurre Noir,30,5
+249,Smelts - Remoulade,10,3
+250,Sirloin Steak with Mushrooms,75,2
+251,Grilled Ham,5.5,4
+252,Calves Liver & Bacon,2.75,2
+253,Lamb Hash - en Bordure,10,5
+254,Mutton Chops - Mashed Potatoes,10,4
+255,Corn Cakes,0.55,5
+256,Marmalade,25,5
+257,Jam,1.25,5
+258,Cocoa,25,1
+259,Oat Meal,0.4,5
+260,Scrambled Eggs,28,5
+261,Poached Eggs on Toast,20,4
+262,Broiled Fresh Mackerel,2.5,4
+263,Chicken Liver with Bacon,10,5
+264,Minced Veal a la Zingari,10,3
+265,Lyonnaise Potatoes,30,4
+266,Baked Weakfish,0.15,3
+267,Half and Half Scallops & Oysters,10,4
+268,Pork Chops Piquante Sauce,10,2
+269,Broiled Kidney with Bacon,10,2
+270,Dry Toast,10,1
+271,Bunns,10,2
+272,Graham Muffins,0.2,1
+273,Hot Cakes,0.5,1
+274,Tea and Coffee,0.1,2
+275,"Ponche de huevo, sambayon, frolada, con pan",0.25,2
+276,Smelts Meuniere,10,2
+277,Findon Haddock,10,5
+278,Paysanne,0.4,1
+279,Boiled Whiting and Parsley Sauce,10,2
+280,Haricot Mutton,10,2
+281,Sausages and Mashed Potatoes,0.25,3
+282,Veal and Ham Pie,1,1
+283,Roast Lamb,80,4
+284,Fried Flounder,10,4
+285,Grillirte Kuken,10,3
+286,Fillet Steaks aux Champignon,10,1
+287,oatmeal with cream,25,2
+288,broiled shad,60,1
+289,Milk stew,40,2
+290,Boston Stew,0.6,3
+291,Raw on the Half Shell,10,2
+292,Beef Steak,1,4
+293,Saratoga Chips,0.3,3
+294,Grilled Mutton Chops,5,1
+295,Dried Hash,10,4
+296,Smelts,50,4
+297,Tartare Sauce,0.15,3
+298,Sausage,25,1
+299,Porto-Rico,10,1
+300,Buckwheat Cakes,20,3
+301,Sliced Pineapples,0.25,4
+302,Soles Normandy,10,2
+303,Broiled Salt Mackerel,0.8,2
+304,Shad roe and bacon,3.5,5
+305,Tripe Fricassee,10,2
+306,Minced scallops on toast,10,5
+307,Steak Pie,0.2,3
+308,Mutton,60,2
+309,Boston Box Stew,0.4,4
+310,Fry,50,2
+311,Fry with Bacon,0.6,5
+312,Oyster Omelette,25,5
+313,Stewed Tripe,10,2
+314,Pork Sausage,0.35,4
+315,Corned Beef Hash,25,5
+316,"Broiled Mackerel, Butter Sauce",10,5
+317,Mock Turtle,40,3
+318,Consomme Benoiton,10,3
+319,Puree of Tomatoes,0.4,1
+320,Filet Steaks aux Champignon,10,1
+321,Consomme Plain,25,4
+322,"Minced Chicken, Creamed Rice",10,5
+323,Schmorbraten a la bourgeoise,10,4
+324,Kartoffelmus,10,4
+325,"Tripe, Spanish Style",10,4
+326,Consomme San Remo,0.2,4
+327,Gebackene Kartoffeln,0.75,5
+328,Calvesâ€™ Liver & Bacon,10,4
+329,Eggs to order,5,1
+330,Consomme Maceo,0.2,1
+331,Puree Mongol,0.35,1
+332,Broiled Rashers of Ham and Bacon,10,5
+333,Consomme Printanier,0.4,5
+334,Chicken Mulligatawny,0.4,4
+335,Split Rolls,10,5
+336,Blue Point Stew,0.35,3
+337,French bread,0.15,2
+338,Corn bread,10,4
+339,Crumb Fry,0.45,4
+340,English Beef,0.4,2
+341,Beef Stew,15,1
+342,Tomato Soup,10,1
+343,Blue Point Fry,0.4,2
+344,Filet of sole a la Horly,0.8,2
+345,Diamond back terrapin,2,5
+346,Fried Plaice - Meuniere,10,2
+347,Sausage & Mashed Potatoes,10,4
+348,"Fried Jew Fish, Sauce Tartare",10,1
+349,Fruit in Season,20,1
+350,GREEN PEAS,75,4
+351,Fried country sausage and buckwheat cakes,10,4
+352,Stewed california prunes,0.3,3
+353,Ham omelette,15,2
+354,Fried hominy,0.25,1
+355,Broiled bluefish,60,3
+356,"Egg, to order",10,2
+357,Diamond stew,10,1
+358,Boiled or Broiled Salt Mackerel,40,4
+359,Whitefish,0.75,5
+360,"Shad, Maitre d'Hotel",0.5,3
+361,Codfish in Cream,0.6,5
+362,Fried Scollops,0.85,2
+363,Breakfast Bacon,0.75,3
+364,Calf's Liver and Bacon,40,3
+365,Pork Spare Ribs,10,5
+366,English Mutton Chops,50,1
+367,Broiled Spring Chicken,100,3
+368,Sirloin or Tenderloin Steak,5,2
+369,"Corned Beef Hash, Browned",30,1
+370,"Veal Cutlets, Breaded, Tomato Sauce",1,1
+371,"Stewed Honeycomb Tripe, Lyonnaise",10,3
+372,"Frizzled Beef, in Cream",0.4,5
+373,Eggs as Ordered,5,3
+374,Fried Indian Mush or Hominy,10,1
+375,French Fried,30,4
+376,Lyonnaise,35,2
+377,Stewed in Cream,40,5
+378,Saute,15,5
+379,"Rye, Graham or Boston Brown Bread",10,5
+380,Shredded Wheat Biscuits,0.3,5
+381,Vienna Rolls,0.15,4
+382,Papovers,10,2
+383,"wheat or Buckwheat Cakes, with Maple Syrup",10,2
+384,Corn Meal Mush,0.1,1
+385,Boiled,25,5
+386,Scotch grouse en casserole,10,5
+387,Soup Ã¡ l'Ã©cossaise,10,5
+388,Broiled Blue Fish,3.75,3
+389,Chicken Liver on Toast with Bacon,10,2
+390,"PUNCH, REPUBLICAN",10,2
+391,Puff over,0.1,1
+392,Passion Fruit,10,2
+393,Kippered Herrings,0.5,4
+394,Curried Pork and Rice,10,2
+395,Stewed Tripe with Cream sauce,10,3
+396,"Eggs, boiled",20,5
+397,Fillets of Beef with Mushrooms,10,3
+398,Consomme Macaroni,0.25,3
+399,Hard Boiled Egg,0.75,4
+400,Cream Cheese,25,4
+401,Broiled Mackerel - Maitre d'Hotel,10,3
+402,Sirloin Steak -- Fried Onions,10,2
+403,Devilled Chicken,10,2
+404,Lamb Hash en Bordure,10,2
+405,Shirred Eggs,19,2
+406,Broiled Salmon Trout,2,1
+407,Grilled Mutton Kidneys & Bacon,10,3
+408,Apfel,10,5
+409,Maisgries,10,5
+410,Snowflakes,10,1
+411,Gebratene Seezunge,10,3
+412,"Fried Halibut, Sauce Tartare",0.4,4
+413,Yarmouth Bloaters,0.75,5
+414,Fillet Steads with Mushrooms,10,4
+415,"Curried Prawns and Rice, Bombay Duck",10,1
+416,"Lamb Chops, Broiled Plain",10,1
+417,Whiting - Meuniere,10,4
+418,Broiled Rashers of Bacon with Fried Bananas,10,3
+419,Sirloin Steak - Fried Onions,10,3
+420,Lambs' Liver Saute,10,2
+421,Tripe Fritters,10,4
+422,Jambon Grille,0.5,3
+423,Mutton Chops - Saute Potatoes,10,1
+424,Calfs Liver + Bacon,10,4
+425,Cold Smoked Tongue and Ham,10,5
+426,Fried & Boiled Potatoes,5,1
+427,Sirloin Steaks aux Cepes,10,2
+428,Beefsteaks with Horseradish,10,3
+429,Dry and buttered Toast,10,4
+430,English Muffins,0.3,2
+431,"Salt Cod, Egg Sauce",10,1
+432,Rice Cakes,20,1
+433,Honey in the Comb,0.4,1
+434,Ris de Veau aux Epinards,10,1
+435,Quail on Toast,0.6,2
+436,"Broiled Green Bluefish, Drawn Butter",0.2,1
+437,Roast Leg of Mutton & Black Currant,10,5
+438,Frizzled Breakfast Bacon (to order),10,4
+439,French Fried Potatoes with Dinner Orders,0.05,3
+440,Beefsteak and Onions,0.5,1
+441,Roast (Vancouver) Suckling Pig & Bread Sauce,5,5
+442,Saute of Kidney,10,2
+443,"Knuckle of Veal, Bacon & Parsely Sauce",10,2
+444,"Coffee, Tea or Cocoa",0.05,2
+445,Scrambled Eggs and Bacon,25,3
+446,liver and bacon,15,5
+447,Fillet de Boeuf a la Parisienne,5,3
+448,Fried Chicken a la Maryland,5.6,4
+449,Fried sole,0.4,2
+450,Salt mackerel,30,5
+451,Bouchees aux Macaroni,5,1
+452,Cold Ham with Potato Salad,1.75,1
+453,mutton chops with potato chips,10,1
+454,Pork Sausage and Lyonaisse Potatoes,10,3
+455,"Tenderloin of pork, Robert sauce",10,5
+456,Roast Goose & Apple Sauce,5,3
+457,Oyster Stew,50,2
+458,Hot Breads,10,1
+459,Pork Sausage and Lyonnaise Potatoes,10,1
+460,"Baked Apple Dumpling, Hard Sauce",0.3,2
+461,Potato a la Maitre d'Hotel,0.15,2
+462,Cracked Wheat with Fresh Milk,10,4
+463,Boiled Cabbage,0.35,1
+464,Strawberries and Cream,50,4
+465,Chicken Liver with Mushrooms,0.6,3
+466,Mashed Pumpkins,5,2
+467,Roast in shell,40,2
+468,"Bread Pudding, Hard Sauce",0.1,5
+469,Indo Curry & Rice,5,4
+470,Steamed Apple Pudding & Hard Sauce,5,5
+471,Rice or Tapioca Pudding,0.05,3
+472,Fruit Pie,1.2,5
+473,Chocolate Pudding with Cream,0.4,4
+474,Scotch Sandwiches,5,4
+475,Chocolate Cream & Sauce,5,2
+476,Corn Starch Pudding with Cream,10,3
+477,Swiss Rolls,5,2
+478,Cold Ham,45,5
+479,Cup Custard,25,2
+480,Codfish Cakes,30,3
+481,Jam and Marmalade,5,1
+482,Lettuce,35,1
+483,Cum-quats,5,4
+484,Raisin and Pound Cake,10,3
+485,Orange,25,1
+486,Fillet Steak and Lamb Chops to Order,5,1
+487,Calf's Liver Saute,2.25,3
+488,Brazil Nuts,0.3,3
+489,Almonds & Raisins,0.25,4
+490,Cheshire Cheese,0.35,5
+491,Stilton Cheese,10,4
+492,Broiled Lambs Kidney,10,3
+493,MacLaren Cheese,5,5
+494,China & Indian Teas,5,2
+495,Stewed Tripe Spanish,10,1
+496,Eggs Bacon and Ham to Order,5,1
+497,Breakfast Jem,10,3
+498,Breakfast Rolls,0.3,3
+499,Germea,10,3
+500,Butter Cakes with Maple Syrup,10,4
+501,Bananas & Apples,10,5
+502,Hot Rolls,0.25,4
+503,Tea Coffee and Cocoa,5,2
+504,"Kraftsuppe, Prinzessin Art",10,2
+505,Boiled Mackerel,0.15,1
+506,Sonoma,10,3
+507,"Gekochter Steinbutt, Granatsauce, zerlassene Butter",10,1
+508,Findon Haddocks,10,1
+509,Cromesquis von Schinken,10,3
+510,Curried Pork & Rice,10,4
+511,Fillet Steaks and Mushrooms,10,1
+512,"Blumenkohl, hollandische Sauce",10,1
+513,"Cotelettes de Veau, Sauce Tomate",5,1
+514,Gratinierter Eierkuchen nach Mornay,10,4
+515,"Entenbraten, Bordeaux Sauce",10,3
+516,Boiled Fried potatoes,0.1,2
+517,"Pork Sausages, Snowflake Potatoes",10,2
+518,Lambs' Liver with Bacon,10,4
+519,Tea + Coffee,10,2
+520,Mutton Chops & Potato Chips,10,5
+521,Citronen-Auflauf,10,1
+522,Cape Horn Hash,10,5
+523,A. A. Oats with Fresh Milk,5,4
+524,Fried Whiting,45,2
+525,Pikelets,10,5
+526,Flannel Cakes,0.3,5
+527,Saute of Sheeps Kidney,10,1
+528,"Smoked Schnapper, Butter Sauce",10,3
+529,Fillet Steak Fried Potatoes,10,1
+530,&,10,5
+531,Finnon Haddock Butter Sauce,10,5
+532,Mutton Stew,0.15,5
+533,Broiled Lamb Chops,5.25,2
+534,"Eggs, Bacon and Ham to Order",5,4
+535,Wheat Cakes,15,1
+536,N.Y. Public Library,10,3
+537,Beef Steak & onions,10,1
+538,Fried Bananas,0.4,1
+539,Egg to Order,5,1
+540,Beef Steak and Champignons,10,4
+541,Boiled potato,0.7,1
+542,Currant Buns,0.1,2
+543,Waffle,0.8,1
+544,Jam & Marmalade,5,3
+545,Broiled or Fried Spring Chicken,250,1
+546,Fruit.,5,4
+547,Sirloin Steaks with Onions,10,3
+548,Dipped Toast,15,1
+549,Tripe a la Bordelaise,10,1
+550,"Extra Order of Meat, Fish or Eggs, 10c.",0.1,3
+551,Curried Chicken with Rice,3,3
+552,Mutton Chops,60,3
+553,Potato Chips,0.75,5
+554,Curried Veal and Rice,10,5
+555,Broiled Rashers of Bacon,10,3
+556,Cold: Ox Tongue,10,3
+557,"Tripe, Stewed in Cream",10,3
+558,Egg Muffins,0.15,1
+559,Devilled Mutton Kidneys and Bacon,10,4
+560,Coffee Cake,5,2
+561,"Fried Sausages, Mashed Potatoes",10,4
+562,Devilled Kidney,0.5,2
+563,Pettijohn,0.2,5
+564,Fried Ham & Eggs,10,1
+565,Boiled Cracked Wheat,10,4
+566,Spanish Omelettes,0.55,2
+567,Calves Liver and Onions,0.4,4
+568,Mutton Chops (to order),10,5
+569,Lamb Chops,75,2
+570,Jacket Potatoes,10,1
+571,Onions,0.5,3
+572,Boiled Corn Meal with Cream,10,2
+573,Maple Syrup,0.1,2
+574,Curried Shrimps and Rice,10,3
+575,Fried Fresh Fish,0.8,4
+576,Honey,25,1
+577,Fillet Steaks with Mushrooms,10,3
+578,Porterhouse Steak and Lamb Chops,10,4
+579,Tongues and Sounds,10,4
+580,Cornmeal Mush,10,1
+581,Breakfast Delight,10,3
+582,Fresh Comb Honey,10,5
+583,Broiled Boned Smelts,10,5
+584,Blue Points on the Shell,10,4
+585,Broiled Lobster,60,5
+586,Fried Country Sausages and Lima Beans,10,1
+587,Oxtail Ragout and Vegetable,10,3
+588,Oyster Pan Roast on Toast,10,2
+589,Mutton Chops Bratonne,10,5
+590,Broiled Chicken with Petit Pois,10,2
+591,Roast Leg of English Mutton,0.35,2
+592,Lynnhavens,50,2
+593,Hamburger Steak and Onions,0.2,3
+594,Pork Sausages,10,1
+595,Veal Cutlets Breaded,0.5,1
+596,Little Neck Clams on the Shell,0.25,1
+597,Frankfurter Sausages and Sauerkraut,10,4
+598,Cape Cods,45,3
+599,Curried Prawns and Rice with Bombay Duck,10,1
+600,Hamburg Steak with Fried Onions,0.75,3
+601,Mashed Turnips,25,3
+602,Fried Liver & Bacon,0.15,5
+603,Potatoes,15,2
+604,Potatoes Saute,0.4,1
+605,Cherrystones,45,5
+606,Fried and broiled Ham,5,1
+607,Eclairs,25,1
+608,Pies,1.25,2
+609,Potatoes boiled and Mashed,5,4
+610,Baked Shad Wine Sauce,0.35,2
+611,Hot Biscuits,0.15,1
+612,Bloaters,0.5,2
+613,Broiled Lamb Kidneys and Bacon,0.5,4
+614,Toast,1.05,3
+615,Frogs' legs in every style,10,3
+616,Jelly omelette,25,5
+617,Broiled Lamb Chops and Bacon,0.45,2
+618,Sauterne 1ere,1.5,5
+619,St. Julien Superieur,3.5,4
+620,Pontet Canet,200,1
+621,Haut Sauternes,150,2
+622,Sherry,3.5,4
+623,Laubenheimer,100,2
+624,Smoked Tongue,2.65,3
+625,Niersteiner,100,1
+626,Hochheimer,150,1
+627,Mumm's Ex. Dry,4,3
+628,Pommery Sec,400,4
+629,Cliquot Sec,5,4
+630,"Moet & Chandon, White Seal",350,5
+631,"Moet & Chandon, Brut",5,4
+632,Irroy Brut,4,1
+633,Apollinaris,40.25,1
+634,Johannis,40.25,1
+635,Blue Point Oysters,40,4
+636,Consomme Daumont,0.25,4
+637,Bisque of Crawfish,0.45,2
+638,Timbales Warsaw,10,1
+639,Fillet of Beef with Fresh Mushrooms,10,3
+640,Trevise Tomatoes,10,4
+641,Poularde Stuffed with Chestnuts,10,2
+642,French Peas with Butter,10,1
+643,"New Asparagus, Cream Sauce",0.15,1
+644,Sherbert Roman,10,2
+645,Red Head Duck,250,1
+646,Celery Salad,60,3
+647,Fancy Ice Cream,0.5,1
+648,Broiled Shad Maitre d'Hotel,5,2
+649,Cakes,2.75,5
+650,Cheese,40,4
+651,Mutton chops fried potatoes,10,5
+652,"ROAST SQUAB ON TOAST, WITH APRICOTS",10,3
+653,"ASPARAGUS, BROWN BUTTER",10,2
+654,Beef Steak & fried onions,10,4
+655,BAKED SWEET POTATOES,30,2
+656,Smoked Snapper,10,4
+657,Fillets of Steak with Champignons,10,5
+658,Curried Lamb and Rice,10,1
+659,Broiled Chicken on Toast,1,5
+660,Curried Shrimps & Rice,10,2
+661,"Stewed Tripe, Cream sauce",10,5
+662,Mutton Chops with Fried Potatoes,10,4
+663,Kaffee,10,5
+664,Obst.,5,5
+665,Hamburg Steak with Onions,0.75,3
+666,Nachtisch.,5,2
+667,Fried Gar fish,10,2
+668,Batter Cakes,5,4
+669,Oat Meal Porridge,10,4
+670,Eels,0.5,3
+671,Pork Cutlets,5,1
+672,Hamburg Steak Spanish Sauce,10,5
+673,Lemon Soda,10,1
+674,Tea & Coffee,5,2
+675,Clysmic,40,3
+676,Russischer Borscht,10,4
+677,"Rice, Semolina",10,2
+678,Pork Cutlet,10,4
+679,Buffalo Lithia Water,0.6,2
+680,1/4 chicken,1,5
+681,Congress Water,25,1
+682,Roast Duck,15.25,4
+683,Giblets,10,4
+684,Hunyadi,40,1
+685,Cabbage,20,1
+686,Cornbread,5,2
+687,Russet Cider,0.75,3
+688,Salad,75,4
+689,Cucumber,50,1
+690,Londonderry Lithia,40,5
+691,Lockchen Pudding,10,1
+692,Vienna Pudding,0.2,2
+693,Semolina Pudding,5,3
+694,Liver,0.35,1
+695,Goulash,10,3
+696,Klops,10,1
+697,Sally Lunn Buns,10,4
+698,Minced Chicken with Creamed Rice,10,3
+699,Lockchen Ferfel,10,3
+700,"Veal Chops, Breaded, Sauce Tomate",10,3
+701,Steak,30,1
+702,Coffee and Tea,5,2
+703,Wiener Schnitzel,4,3
+704,"Lambs' Liver, Fried with Onions",10,4
+705,Calves' Liver and Bacon,0.7,3
+706,potage a la chatelaine,10,3
+707,"Fillet Steaks, Spanish Style",10,4
+708,Eggs au Soleil,10,3
+709,Stewed Beef,0.15,1
+710,Soup Meat,10,5
+711,Pickled Mackerel,10,2
+712,Corned Beef and Cabbage,85,3
+713,Oyster Patties,50,5
+714,Fillet of Beef a la Financiere,10,3
+715,Curried Mutton and Rice,10,2
+716,Beef and Brown Potatoes,10,5
+717,Pork and Apple Sauce,10,4
+718,Cauliflower,70,3
+719,String Beans,60,5
+720,Chicken Liver on Toast,10,1
+721,Boiled and Mashed Potatoes,0.15,5
+722,"Rice Custard, Cream Sauce",10,4
+723,Blackberry Pie,5,1
+724,Italian Cream,10,4
+725,Crackers and Cheese,0.15,2
+726,Roast Phil'a Chicken,10,2
+727,Red Herrings,10,1
+728,"Turtle Steaks, Perigueux",10,3
+729,Broiled Mutton Chops,5,5
+730,Chicken Livers on Toast,1.6,4
+731,Hamburger Steaks,0.2,3
+732,Broiled Cumberland Ham (to order),10,5
+733,"Veal Cutlets, Tomato Sauce",35,5
+734,Stewed rhubarb,35,3
+735,Frizzled Bacon (to order),10,3
+736,Fried Potatoes,15,5
+737,"Stewed Tripe, White Sauce",10,3
+738,Stewed French prunes,5,3
+739,Florida oranges,0.3,5
+740,Pork Sausages with Fried Apples,10,4
+741,Sliced bananas with cream,10,1
+742,Hot corn muffins,10,4
+743,Schottische Suppe,10,1
+744,Pork Sausage with White Wine,10,3
+745,"Rindsmittelrippe, Bercy Art",10,5
+746,Buttered toast,15,2
+747,Shrewsburys,0.7,2
+748,"Succotash, amerikanische Art",10,5
+749,Milk toast,30,3
+750,Puterbraten,10,5
+751,Cream toast,30,3
+752,Boston cream toast,10,5
+753,Cotuits,45,1
+754,Bratapfel mit Schlagsahne,5,5
+755,Codfish Balls,0.6,3
+756,Aprikosen- & Pflaumen-Kompott,10,1
+757,Tomatoes,15,2
+758,Reistortchen,10,4
+759,Entre-cote a la Bercy,10,2
+760,Succotash a l'americaine,10,2
+761,Roast Turkey,3.55,3
+762,Baked Potatoes,20,4
+763,Baked apples & whipped cream,10,4
+764,Stewed apricots & prunes,10,4
+765,Rice tartlets,10,1
+766,Salzmakrele,5,3
+767,Beefsteak,15,4
+768,Geback. Labskaus,10,1
+769,Gekochter Reis,5,4
+770,Corned beef hash browned,1,1
+771,Sardellen,15,4
+772,Anchovis,0.2,2
+773,Delikatess Haringe,5,5
+774,Aal in Gallert,10,4
+775,Gerauchter Rheinlachs,10,1
+776,Mutton Chops & Chips,5,2
+777,Rotwurst,10,2
+778,Sulze,5,5
+779,Leberwurst,0.5,1
+780,Nagelholz,10,5
+781,Gekochter Yorkshire Schinken,5,1
+782,"Beef steak, Onion Sauce",10,3
+783,Piccalilly,10,3
+784,Salzgurken,10,1
+785,Radieschen,10,5
+786,Sardelles,0.65,5
+787,Fried Tom Cod,0.3,1
+788,Heat Roll,10,5
+789,Pickled Herrings,0.4,1
+790,Eel in Jelly,10,5
+791,Brawn,10,2
+792,Black Sausage,10,3
+793,Liver-sausage,10,3
+794,Smoked beef,0.5,4
+795,Smoked Rhine salmon,10,5
+796,Boiled Yorkshire ham,10,5
+797,Stewed Pineapple and Rice,10,2
+798,Pickled cucumbers,10,2
+799,Stewed Prunes and Rice,10,3
+800,Plum Tart,6,5
+801,T. Hennessy & Co's Cognac,10,5
+802,Oysters a la Poulette,50,1
+803,Vermicelli Pudding,25,3
+804,Sirloin Steaks with Mushrooms,10,2
+805,"Cabinet Whiskey, 15 years old",10,3
+806,"Pork Chops, Breaded Sauce Diable",10,2
+807,Old Pepper Whiskey,2,1
+808,Sausages,3.25,5
+809,Madeira Cake,10,3
+810,Fine Old Rye,10,3
+811,Rock and Rye,2,4
+812,Indian Muffins,10,3
+813,Old Crow Whiskey,2.5,4
+814,"Tea, Coffee and Chocolate",10,1
+815,Mount Vernon Whiskey,2.5,1
+816,PrÃ¼nellen- & Pflaumen-Kompott,10,4
+817,Applejack,0.6,3
+818,Hominy Fritters,0.2,4
+819,Fine Holland Gin,10,5
+820,Beef Steak and Onions,0.4,4
+821,Old Tom Gin,150,2
+822,Raspberries,35,2
+823,Home Made Wild Cherry Bitters,10,5
+824,"Kidney Saute, Madeira",10,4
+825,Blackberry Brandy,3,4
+826,Vermouth,20,1
+827,Hohlhippen,10,2
+828,Hostetter Bitters,0.15,4
+829,Booker's Bitters,10,1
+830,Sirloin of beef with stewed tomatoes,0.15,5
+831,Boonerkamp Bitters,10,1
+832,Pork Chop,30,1
+833,Gilka Kummel,15,3
+834,Rhine Wine,4,3
+835,Port Wine,3.5,2
+836,Lobster Croquettes ,1,5
+837,Claret,40,3
+838,Milk Punch,15,2
+839,Milk Punch with egg,0.65,2
+840,Kipperd Herrings,10,2
+841,Claret Punch,15,2
+842,Mignon Fillet a la aux Gourmets,10,4
+843,Manhattan Cocktail,1.25,3
+844,Calfs Liver Bordelaise,10,2
+845,Whiskey Cocktail,1.25,5
+846,"Minced Turkey, on Toast",10,5
+847,Broiled Sirloin Steak,60,4
+848,Fried Ham (to order),10,1
+849,Breakfast Bacon (to order),10,1
+850,Sally Lunns,10,3
+851,Soups,1.65,5
+852,Fish,2.25,2
+853,Kapaunenbraten,10,2
+854,Hashed Turkey en Bordura,10,3
+855,Erdbeeren,0.75,2
+856,Potato Cake,10,4
+857,Entrees,5,4
+858,Kopf-Salat,10,3
+859,Gries-Pudding,10,2
+860,Potted Beef,10,5
+861,Anchovies on Toast,40,5
+862,Obst,5,2
+863,Nachtisch,5,1
+864,Caviar on Toast,35,5
+865,"Hamburger Steak, Onion Sauce",0.2,2
+866,Lyon Sausage,30,5
+867,Potage a la creme d'asperges,10,1
+868,Consomme a la royale,10,2
+869,Lamb chops a la Villeroi,10,2
+870,porridge,20,1
+871,Sliced beans a l'anglaise,10,2
+872,Hotch potch of ox-tails,10,2
+873,Roast capon,6,4
+874,Puree of Artichokes a la Conde,10,2
+875,Lettuce Salad,40,5
+876,Tutti-frutti ice cream,25,4
+877,Marchpane pastry,10,1
+878,Dessert,40,5
+879,Roastbeef,45,4
+880,Potatoes a la dauphine,5,5
+881,Tutti-frutti Rahmeis,5,4
+882,Marzipan-Geback,10,2
+883,Rostbraten,5,4
+884,Dauphine Kartoffeln,10,4
+885,"Fillets of Halibut, Brown Butter Sauce",10,2
+886,Lambs' Liver with Eastern Bacon,10,5
+887,Oyster Omelettes,10,5
+888,Soup Ã  la crÃ©cy with sago,10,3
+889,Sweet Pickles,20,4
+890,Beef braise a la bourgeoise,10,2
+891,G. H. Mumm's Extra Dry,30.75,5
+892,Grilled chicken,2.5,2
+893,Piper Heidsieck,25,2
+894,"Pork Sausages, Fried Apples",10,3
+895,"Smoked Beef, Stewed in Cream",10,4
+896,Grilled York Ham,10,4
+897,Fried and Boiled Potatoes,10,2
+898,New Potatoes Saute,10,3
+899,Delmonico steak,55,1
+900,Stewed prunelloes & prunes,10,4
+901,Cornet wafers,10,3
+902,baked or mashed potatoes,0.15,2
+903,Fricassee of veal,5,5
+904,"Fresh English lobster, mayonnaise",10,3
+905,Julienne,35,4
+906,Caviare,0.5,5
+907,Beeftongue,10,1
+908,Bermuda potatoes,30,4
+909,Sablath sausage,5,2
+910,New asparagus,50,5
+911,Smoked Westphalian ham,5,5
+912,Mixed-pickles,10,2
+913,Fry in butter,0.6,2
+914,"Salad: Potato, Chicory",10,5
+915,Neapolitan Ice,0.35,5
+916,"Cheese: Swiss, Cream, Chester",10,4
+917,Consomme a la princesse,10,4
+918,Creamed toast,0.35,5
+919,Ham,95,5
+920,Kennebec salmon,2.25,4
+921,Peas,1.7,2
+922,"Mutton Chops, Plain or with Tomato Sauce",10,3
+923,Saute Potatoes,20,5
+924,Tomato,40,3
+925,Watercress,30,1
+926,Cheddar,1,4
+927,Boiled Slices Codfish Vinaigrette Sauce,10,3
+928,Jerez,2,4
+929,Sauces in Variety (each),10,5
+930,Madeira,3.5,4
+931,Oporto,11.25,1
+932,"Fried Perch, Sauce Figaro",0.6,1
+933,Moscatel,3,1
+934,Scallops,1.25,4
+935,Jerez-Extra select,10,5
+936,Lemonade,12,5
+937,Soda Water,0.6,5
+938,Anchovy Salad,60,5
+939,Leon de Oro,0.75,2
+940,Ginger Beer,1,2
+941,Ginger Ale,25,1
+942,New Dill Pickles,0.5,2
+943,Small Soda Water,10,4
+944,Toluca Pilsner,0.25,4
+945,Gerostete Sardinen auf Toast,10,3
+946,Id. extra,0.31,4
+947,Geraucherte Haringe,10,1
+948,"Beefsteak, gerostet & gebraten",10,5
+949,Cuauhtemoc,0.31,2
+950,Hammelkoteletten,5,5
+951,"Frankfurter Wurst, Meerettig",10,5
+952,Carta blanca,10,1
+953,Bock Toluca,0.25,2
+954,"Mumm, Extra dry",8,1
+955,Sauternes,100,2
+956,Chablis,14,2
+957,Chateau d' Yquem,5,3
+958,Liebfraumilch,24,4
+959,Roast,2,2
+960,Barbera,5,3
+961,Chicken with Okra,0.6,1
+962,"Sirloin of Beef, Dish Gravy",10,3
+963,Barolo,12,4
+964,Leg of Mutton,0.6,1
+965,Capri,5,1
+966,Vegetables,0.45,4
+967,Stewed Celery,0.6,5
+968,Marsala,3,2
+969,Id. Vergine,3,2
+970,Indian,0.1,5
+971,Falerno,3,3
+972,Cup of Consomme,0.25,4
+973,Amarena di Siracusa,10,3
+974,SADDLE ROCKS,0.75,5
+975,Cup of Beef Tea,0.35,3
+976,Hors d'Oeuvres,20,4
+977,Croute-au-Pot,40,1
+978,TEA AND COFFEE.,10,1
+979,Olives,35,5
+980,Green Turtle,50,3
+981,HAMBURGER ROAST,0.15,1
+982,S. Estephe,1.5,5
+983,Pea Soup,25,1
+984,Leognan,1.5,5
+985,Consomme Mericourt,0.4,5
+986,Cup of Clam Broth,20,5
+987,Cantenac,2,3
+988,Consomme,35,4
+989,"Broiled Halibut Steak, Maitre D'Hotel",10,3
+990,Brook Trout,60,2
+991,English Beefsteak Pie,10,4
+992,Chateau Margaux,17,5
+993,Soft Clams a la Manhattan,0.5,5
+994,"Tenderloin Of Beef, Bretonne ",1,1
+995,Chicken Pot-Pie,0.4,5
+996,"Small Tenderloin SautÃ©, Mushrooms",10,2
+997,Lamb with Green Peas,2.5,5
+998,"Lamb Chops SautÃ©, with Peas",10,5
+999,Mulligatawny,0.5,4
+1000,Whitebait,40,3
+1001,"Pork, Apple Sauce",0.4,1
+1002,"Turkey, Cranberry Sauce",80,3
+1003,Shad Roe with Bacon,60,2
+1004,Soft Shell Crabs,60,1
+1005,Prime ribs of beef with dish gravy,10,2
+1006,Iced Tea of Coffee,0.25,1
+1007,Turkish Coffee,25,2
+1008,Halibut,60,5
+1009,"Brissotin of Chicken, Supreme",0.8,1
+1010,Roast on the Half Shell,0.3,5
+1011,"Tea, Pot",20,1
+1012,"Lettuce, French dressing",0.35,2
+1013,Fancy Roast on Toast,0.4,1
+1014,"Coffee, Pot",1000,1
+1015,Pudding,10,3
+1016,Cream,30,1
+1017,Fruits,10,1
+1018,Bonbons,0.25,3
+1019,Goblet of Milk,0.1,2
+1020,"Roast Capon, Sauce Pimentade",10,4
+1021,Cheese and Crackers,0.75,1
+1022,Buttermilk,10,1
+1023,Lanoire,3.5,3
+1024,Waffles,30,1
+1025,Fresh Strawberries,100,2
+1026,Preserved or Canned Fruits,10,5
+1027,With Rum,0.6,4
+1028,2 Apples,0.15,1
+1029,2 Bananas,0.15,4
+1030,"Oranges, each",0.5,4
+1031,"Pears, each",0.1,4
+1032,Bar-le-Duc,40,4
+1033,Porter House Steak for two,10,4
+1034,Compote of Assorted Fruits,1.25,1
+1035,"Fried Shrewsbury eels, sauce tartare",10,4
+1036,Chocolate Bavaroesa con pan,0.15,1
+1037,Cafe o te taza chica ,0.06,1
+1038,Chocolate a la Espanola con mollete,10,1
+1039,"Leche sola, copa",0.1,4
+1040,Fresh milk,0.25,3
+1041,"Cocoa,",10,3
+1042,"Cocovena,",10,2
+1043,Biscuits,1.5,4
+1044,Frische Milch,5,1
+1045,Boiled turbot,10,5
+1046,Sahne,10,5
+1047,Sauce crevette,10,2
+1048,"Crescents ,",10,2
+1049,Melted butter,10,3
+1050,Ginger,0.3,1
+1051,"Cacao,",10,1
+1052,Gromesquis of ham,10,4
+1053,Chocolade,1.5,3
+1054,"LETTUCE SALAD, VINAIGRETTE",10,3
+1055,"Rolls, ",10,3
+1056,"Kaffee,",10,4
+1057,Cauliflower a la hollandaise,0.4,4
+1058,"Hafercacao,",10,1
+1059,MAYONNAISE OF CHICKEN,1.1,4
+1060,French fried potatoes,25,4
+1061,Thee,1.5,2
+1062,Omelet au gratin a la Mornay,10,5
+1063,"Brodchen,",10,4
+1064,"Roast capon, Sauce bordelaise",10,1
+1065,SLICED APPLE PIE,0.2,4
+1066,"Hornchen,",10,2
+1067,Crovatten,10,2
+1068,WASHINGTON CREAM PIE,0.25,5
+1069,Hashed browned potatoes,20,4
+1070,Marmelade,0.35,2
+1071,Mirabelles,5,5
+1072,Ingwer,10,5
+1073,Kalt:,5,4
+1074,Lettuce- & Cucumber salad,10,5
+1075,Mettwurst,0.25,5
+1076,Sablath-sausage,10,1
+1077,Rindszunge,10,3
+1078,Souffle of lemon,10,1
+1079,Eier au jus,10,5
+1080,Mixed ice cream,25,4
+1081,Macaroon pastry,10,3
+1082,NEW YORK ICE CREAM,0.25,2
+1083,Spiegeleier,10,3
+1084,ASSORTED CAKE,20,1
+1085,Cofee,5,5
+1086,Verlorene Eier,10,1
+1087,SELECTED NUTS,10,5
+1088,ROQUEFORT CHEESE,30,5
+1089,Eierkuchen a la raspail,10,3
+1090,AMERICAN CHEESE,25,5
+1091,TOASTED WAFERS,5,5
+1092,Potatoes a l'Anna,10,5
+1093,Pfannkuchen,10,3
+1094,Clam Chowder,200,3
+1095,Green Corn,40,5
+1096,ENGLISH BREAKFAST TEA,3.5,3
+1097,"OMELETTES, PLAIN, WITH HAM, PARSLEY, JELLY OR RUM",5,4
+1098,GREEN TEA,0.5,3
+1099,Extra,1.75,3
+1100,"Chocolate, pot",25,1
+1101,Cafe Turque,1.4,5
+1102,Iced coffee,25,5
+1103,Iced tea,30,1
+1104,"Extra coffee (made on the table) Java, Mocha, Maracaibo or Mexican, demi-tasse",0.25,4
+1105,Roquefort,30,5
+1106,Gorgonzola,30,3
+1107,Brie,30,3
+1108,Neufchatel,30,1
+1109,Swiss,25,3
+1110,Camembert,30,4
+1111,Broiled Striped Bass,3,5
+1112,Broiled Finnan Haddie,2.6,2
+1113,Broiled Smoked Salmon,1,4
+1114,Frutas,10,2
+1115,Cerealine con leche,10,3
+1116,"Oysters, half shell",10,2
+1117,Rabanos,10,5
+1118,Ostiones a la Pulette,10,1
+1119,Beefsteak con mushrooms,10,3
+1120,Crabs deviled,0.5,2
+1121,"Little Neck clams, half shell",20,3
+1122,Steamed clams,60,1
+1123,Soft Clams,60,3
+1124,"Lobster, plain",1,4
+1125,Veal Cutlet Breaded,1.25,5
+1126,Mutton Chops.,10,1
+1127,Ham or Bacon and One Egg,0.3,5
+1128,Fried Country Sausage and Buckwheat Pancakes,10,2
+1129,"Choice of Toast, Hot Rolls or French Bread",10,3
+1130,15,10,3
+1131,Hunter Old Rye,0.15,5
+1132,Old Irish,0.2,5
+1133,Scotch,75,5
+1134,Hackley's Sour Mash,0.15,2
+1135,Old Pepper Rye,0.2,1
+1136,Orient Pure Rye,0.15,4
+1137,"Filet Mignons Saute, Lyonnaise Potatoes",10,1
+1138,Yorkshire Schinken & Speck,10,4
+1139,Holland Gin,200,1
+1140,Holsteiner Schnizel,10,1
+1141,Old Jamaica Rum,3,3
+1142,"Raw on the shell, large, dozen",0.4,2
+1143,Broiled sardines on toast,0.7,2
+1144,Medford Rum,2,4
+1145,"Roast Loin of Jersey Pork, Apple Sauce",3,3
+1146,Antediluvian,3,3
+1147,Steamed,0.6,5
+1148,Stew,35,4
+1149,Virginia Club,0.15,2
+1150,"Soft Shell Crabs on Toast, with Bacon",10,4
+1151,"Saddle Rocks, raw on shell",0.3,1
+1152,Saddle Rock fry or broil,0.4,2
+1153,Orange Bitters,15,3
+1154,Saddle Rock stew,0.5,4
+1155,Curacao,30,5
+1156,"Sweetbreads Saute on Toast, with Mushrooms",10,5
+1157,Creme de Cacao,85,1
+1158,Creme Yvette,15,5
+1159,Maraschino,20,4
+1160,"Chartreuse, green",1.5,2
+1161,""" yellow",0.1,3
+1162,Benedictine,20,3
+1163,Anisette,85,2
+1164,Fillet of turtle with truffles,10,5
+1165,CHAMPAGNES,5,3
+1166,"Beefsteak, broiled & fried",10,3
+1167,"Francfort sausage, horse-radish",10,5
+1168,Veal steak a la Holstein,10,5
+1169,Sirloin steak aux cepes,1.25,2
+1170,Yorkshire ham & bacon,10,3
+1171,Eggs au jus,10,1
+1172,Extra sirloin steak,100,1
+1173,Poached eggs,1,1
+1174,Omelet a la raspail,10,2
+1175,Absinthe,20,2
+1176,Brandy peaches,50,4
+1177,Kummel,85,2
+1178,Creme de Menthe,15,2
+1179,Pousse Cafe,30,1
+1180,Brandy cherries,10,4
+1181,Kirschwasser,15,1
+1182,CORDIALS,1.25,3
+1183,Beers on Draught,10,4
+1184,"WURZBURGER, Imported",1,1
+1185,Brandy pears,0.4,1
+1186,Brandy prunes,10,5
+1187,Brandy figs,0.5,2
+1188,Clam Soup,0.5,5
+1189,PILSNER,0.9,3
+1190,Omelette au rhum,45,2
+1191,Fruit salad,4.95,5
+1192,Guava jelly,0.5,5
+1193,Creole figs,0.5,2
+1194,English plum pudding,0.6,1
+1195,Clausen's Champagne Lager Beer,0.15,3
+1196,"Broiled Fresh Mackerel, Saratoga Chips",0.4,3
+1197,"Rochester, Rienzi, Imperial Beer",0.15,2
+1198,"St. Louis Beer, Lemp's",0.15,2
+1199,Imported Culmbacher,0.25,3
+1200,Younger's Scotch Ale,0.6,4
+1201,"Bass Ale, Dog's Head",0.4,4
+1202,Guinness's Stout,1.85,1
+1203,Allsopp's India Pale Ale,0.3,3
+1204,Evan's India Pale Ale,20,1
+1205,Ale,0.6,1
+1206,"Ginger Ale, Domestic",0.3,2
+1207,"Ginger Ale, Imported",0.35,2
+1208,Sarsaparilla,5,4
+1209,Plain Soda,2,1
+1210,Seltzer and Vichy Water,0.2,1
+1211,White Rock,40,4
+1212,Apollinaris Water,40,1
+1213,Best Brandy,0.5,5
+1214,Brandy,70,3
+1215,Marcobrunner,5,5
+1216,Ruedesheimer Berg,18.25,5
+1217,PORT,6,4
+1218,BURGUNDY,8,1
+1219,Queen's,3.5,5
+1220,Sandeman's,10,5
+1221,Cockburn,5,3
+1222,Vino de Pasto,14.75,4
+1223,Amontillado,20,5
+1224,Chateau Yquem,250,4
+1225,Vin de Graves,1.5,4
+1226,Barsac,10.5,5
+1227,Sauternes (Barton & Guestier),1.25,2
+1228,Sauterne,85,5
+1229,Clos de Vougeot,6,1
+1230,For,10,4
+1231,"Corton, F. Chauvenet, 1878",1.5,4
+1232,The,25,4
+1233,Exclusively ,10,4
+1234,Nuits,200,1
+1235,address.,10,4
+1236,Pommard,200,5
+1237,This,10,3
+1238,side,10,2
+1239,Macon,100,1
+1240,is,10,3
+1241,Chateau Leoville,18.5,3
+1242,Chateau La Rose,15,4
+1243,St. Julien (Barton & Guestier),12,2
+1244,Floirac (Barton & Guestier),1.25,5
+1245,St. Estephe (B. & G.),1.25,2
+1246,Medoc (Barton & Guestier),1.25,1
+1247,Medoc,100,1
+1248,St. Estephe,65,2
+1249,Cabinet Riesling (white wine),0.65,4
+1250,La Rosa Zinfandel (C. V. & Co.),0.5,3
+1251,"Pony Claret, half pints",0.15,3
+1252,Cook's Imperial,6.5,1
+1253,Delmonico..... half pint,1,1
+1254,Ruinart Brut,400,4
+1255,Perrier-Jouet & Co.,3.5,2
+1256,Moet & Chandon,400,4
+1257,"Veuve Clicquot, Yellow Label",400,1
+1258,"Pommery & Greno, Sec",32.25,1
+1259,"G. H. Mumm & Co., Extra Dry",5.5,4
+1260,Dry Monopole,16,3
+1261,"Geo. Goulet, Ay Brut, 1884",3.75,4
+1262,WINE LIST,5,4
+1263,with onions,2.7,4
+1264,with mushrooms,250,1
+1265,Chateaubriant,3.75,1
+1266,Small pot [cup],0.1,2
+1267,"Hamburg steak, onions",10,2
+1268,Macaroni croquettes,0.4,5
+1269,Double porterhouse steak,140,1
+1270,Smoked Ham,2.95,1
+1271,Oysters au gratin,2.5,1
+1272,Broiled half spring chicken on toast,10,4
+1273,"Bacon, broiled or fried",0.4,4
+1274,"Beechnut ham, broiled or fried",10,4
+1275,Ham and eggs,30,3
+1276,Broiled or deviled kidneys on toast,10,4
+1277,"Spring lamb chops (3), broiled",10,4
+1278,tomato sauce,3.35,4
+1279,Welsh rarebit,40,5
+1280,Golden buck,50,5
+1281,"English mutton chops, brace",0.9,3
+1282,single,0.3,3
+1283,Frizzled beef with scrambled eggs,0.35,1
+1284,Crescents,0.1,3
+1285,Cocovena,10,5
+1286,Cold:,5,1
+1287,Eggs,1.5,1
+1288,Rice,10,5
+1289,Rinones Saute,0.4,3
+1290,"Huevos, a la orden",10,1
+1291,Panesitos,10,1
+1292,Tostadas,10,4
+1293,Molletes de maiz,10,5
+1294,Frituras de trigo,10,3
+1295,Codfish,50,5
+1296,Frituras de maiz blanco,10,1
+1297,Picadillo de carne de familia,10,4
+1298,Costillas de cerdo en salsa Diable,10,2
+1299,Tenderloin steak a la Bordelaise,2,3
+1300,Tenderloin steak mushrooms,1.25,2
+1301,Tenderloin steak a la Bearnaise,2,3
+1302,Broiled spring chicken half,1.15,5
+1303,Philadelphia squab,60,3
+1304,Roast chicken,150,5
+1305,"Whole chicken, Maryland style",2,4
+1306,Extra sirloin steak mushrooms,10,4
+1307,Porterhouse steak mushrooms,2.5,1
+1308,Lamb chops (3),1.45,4
+1309,English mutton chop,75,3
+1310,Mutton chops (2),40,1
+1311,Grouse,300,5
+1312,Partridge,250,2
+1313,Cold,0.25,3
+1314,English pheasant,5,3
+1315,Irish black game,3,2
+1316,Scotch grouse,4.5,3
+1317,Lobster,75,5
+1318,New string beans,30,3
+1319,New peas,25,1
+1320,Chicory,50,1
+1321,Romaine,75,5
+1322,Dandelion,0.6,1
+1323,Corn fritters,30,5
+1324,Flageolets,40,5
+1325,French artichoke,0.6,2
+1326,Stuffed peppers,40,5
+1327,Egg plant,25,5
+1328,Sardine,95,4
+1329,Sweetbreads saute aux petits pois,10,5
+1330,"Lamb chops, reforme",10,1
+1331,Apple fritters glaces au rum,0.4,3
+1332,Supreme of chicken aux truffles,1.3,2
+1333,Sorbets,3.25,5
+1334,"Philadelphia squab, Paysanne",10,3
+1335,Franzosische Bratkartoffeln,10,2
+1336,Fresh mushrooms in every style,10,2
+1337,French string beans,40,2
+1338,"Schweinsfilet, Robert Sauce",10,1
+1339,"Cup consomme, hot or cold",0.25,2
+1340,French asparagus,100,4
+1341,Lima beans,60,5
+1342,French peas,40,5
+1343,Spaghetti,50,3
+1344,Macaroni,50,2
+1345,Makkaroni Krusteln,10,1
+1346,Sweet corn,10,2
+1347,Succotash,25,5
+1348,Eggs Scrambled a la Uncle Sam,0.4,1
+1349,Cepes Bordelaise,1.4,5
+1350,Stuffed tomatoes,60,5
+1351,Mixed Ices,0.35,4
+1352,"Cakes - Sponge, Nut, Fruit, Mixed",10,4
+1353,Sweet potato,0.3,2
+1354,Fried Veal Cutlets a la Zingara,10,2
+1355,"Macaroni, Calabraise",0.35,2
+1356,Spinach,40,4
+1357,"Banana Fritters, Sherry Wine Sauce",10,3
+1358,Whole Broiled Spring Chicken,3.5,5
+1359,"Preserves - Wild strawberries, Raspberries, Currants, Gooseberries, Grapes",0.4,1
+1360,"Young Vermont Turkey, Parsley Sauce",0.5,5
+1361,Rhode Island Turkey,0.75,4
+1362,Chicken (Half),1.25,1
+1363,Spring lamb en casserole,2.25,2
+1364,"Cincinnati Ham, Champagne Sauce",10,4
+1365,"Chocolate Pudding Souffle, Cream Sauce",0.3,4
+1366,Strawberry Moscovite,0.35,4
+1367,Horseshoe Cake,0.25,3
+1368,Peach Pie,15,1
+1369,Orange Custard Pie,0.35,3
+1370,Chartreuse Jelly,0.25,2
+1371,Cherry Tarts,20,2
+1372,Vanilla Eclairs,10,3
+1373,Port du Salut,25,1
+1374,American,20,5
+1375,Edam,30,3
+1376,Gruyere,45,5
+1377,Stilton,20,4
+1378,Gervais,30,4
+1379,Stuffed Sweet Peppers,0.5,2
+1380,French Flageolet Beans,10,1
+1381,Fresh Artichokes,0.95,4
+1382,Philadelphia Coffee,0.25,1
+1383,Beef tongue,40,3
+1384,Salzkartoffeln,10,2
+1385,Saratoga Kartoffeln,5,1
+1386,Id. Lafitte,4,4
+1387,Id. Leoville,10,5
+1388,Id. Larose,4,2
+1389,Pauillac,2,1
+1390,Clos Lafitte,3,3
+1391,Chateau des Capucins,10,3
+1392,Chianti,20,2
+1393,Tennet's X X X Stout,0.62,1
+1394,""" au gratin",0.3,3
+1395,Vienna coffee,0.35,1
+1396,Louis Roederer,7,1
+1397,Moscato d'Asti,3,1
+1398,Moet & Chandon Dry Imperial,10,2
+1399,Fruit sauce,0.05,2
+1400,Smoked Salmon,50,5
+1401,Id. pale ale,0.62,3
+1402,Fried Cods' Tongues,0.35,4
+1403,Dill Pickles,15,4
+1404,Bermuda Onions,0.4,4
+1405,"Delbeck, Extra Dry",4,5
+1406,"G.H. Mumm & Co., Ex. Dry",4,5
+1407,Kalbfleisch-Frikassee,10,5
+1408,Central Salvator,0.25,2
+1409,Baked Boston beans,10,1
+1410,"Breast of lamb, breaded, tomato sauce",10,1
+1411,"Spaghetti, Italienne",15,3
+1412,Rudesheimer Berg,18,2
+1413,Baked macaroni,0.5,3
+1414,Oloroso,16,1
+1415,Zeltinger,100,5
+1416,Salt mackerel $0.25,10,2
+1417,Concert-Programm,10,5
+1418,Brauneberger,150,3
+1419,"Frischer englischer Hummer,",10,3
+1420,Erdener Treppchen,3.25,3
+1421,Mayonnaise,10,2
+1422,Sparkling Muscatel,3.5,1
+1423,Vino Chianti,1.25,1
+1424,"Filet of sole, Tartare",45,1
+1425,Geraucherter Rheinlachs,10,1
+1426,Sliced Veal with Noodles,0.6,4
+1427,"Omelette, plain",40,5
+1428,"Lobster, American Style, in Chafing Dish",1,3
+1429,"Sweetbreads, Binda",10,3
+1430,"Omelete, with parsley",10,3
+1431,Deviled,0.6,4
+1432,Geraucherter westfalischer Schinken,5,5
+1433,Mixed-pickels,10,2
+1434,"Omelette, with tomatoes",0.5,1
+1435,"Omelette, with ham",40,5
+1436,Salat: Kartoffel- Endivien-,10,3
+1437,"Omelette, with bacon",0.6,3
+1438,"Kase: Schweizer-, Rahm-, Chester-",10,5
+1439,Eggs scrambled with frizzled beef,10,5
+1440,Eggs scrambled with mushrooms,0.5,2
+1441,Eggs scrambled with asparagus tips,0.5,4
+1442,Eggs scrambled with truffles,0.75,1
+1443,Pitcher of cream,0.3,5
+1444,Kuchen:,10,4
+1445,Cakes:,10,3
+1446,Bremen.,10,5
+1447,Shad roe,6.5,1
+1448,Russian caviar,2.25,2
+1449,"VEUVE CLICQUOT, BRUT",4.5,2
+1450,Pickled beets,20,3
+1451,English walnuts pickled,20,4
+1452,YELLOW LABEL,3.5,4
+1453,Broiled Sweets,0.4,3
+1454,POMMERY,20,3
+1455,American Peas,25,4
+1456,Escarole,60,5
+1457,Stewed Corn,25,4
+1458,"G.H. MUMM'S, EXTRA DRY",12,4
+1459,Filet of Sole au Vin Blanc,2,4
+1460,Gherkins,20,4
+1461,"Spring lamb steak, casserole",0.75,3
+1462,French olives,15,3
+1463,Fried Cod's Head and Pork,0.5,3
+1464,GEISLER EXTRA DRY,3.5,5
+1465,Fried Halibut,0.7,4
+1466,Fresh mushrooms,2.5,5
+1467,Russian salad,100,4
+1468,CHAMPAGNE,8,5
+1469,Scallops en Coquille,0.8,2
+1470,Fried onions,10,5
+1471,Macedoine salad,50,5
+1472,Spanish olives,15,1
+1473,Pate de foie-gras,75,2
+1474,Mallard Duck,400,4
+1475,Black Duck,1.5,2
+1476,Cucumbers,40,4
+1477,Canvas Back Duck,5,3
+1478,Mayonnaise dressing,1,3
+1479,"Cream Ale, glass, mug or toby",0.1,5
+1480,"Terrapin, Baltimore Style",2,1
+1481,"Bass Ale on Draught, glass",0.15,5
+1482,Bunker Hill Pickles,10,1
+1483,"Half and Half, Ale and Porter. glass",10,1
+1484,Gerkins,0.15,1
+1485,Small steak tomato sauce,40,4
+1486,"Allsopp's Ale on Draught, glass",0.15,5
+1487,Major Gray Chutney Sauce,0.15,1
+1488,Small steak with onions,50,2
+1489,"Stout on Draught, glass",0.15,5
+1490,Soft clams in any style,0.35,2
+1491,Small steak mushrooms,10,1
+1492,"Imported Wurzburger, per glass",10,5
+1493,Little-Necks on shell,0.2,2
+1494,Small steak with bacon,60,5
+1495,Hip steak,2.5,4
+1496,"Russet Cider, Glass",0.4,1
+1497,"Pommery and Greno, Sec",3.5,1
+1498,Small sirloin,2.25,1
+1499,Little-Neck clam fry with bacon,0.35,3
+1500,"Veuve Clicquot ""Yellow Label""",3.5,1
+1501,Small sirloin tomato sauce,0.7,2
+1502,Half Broiled Chicken,9,1
+1503,"Moet and Chandon ""White Seal""",3.5,5
+1504,"Whisky ""Lorne""",0.15,4
+1505,Whole Broiled Chicken,2.5,1
+1506,Small sirloin with onions,0.9,5
+1507,Little-Neck clam broil with bacon,10,2
+1508,Broiled Ham or Bacon,45,4
+1509,"Vermouth, Ajenjo, Conac",0.15,3
+1510,BROILED LIVE LOBSTER,75,4
+1511,Small sirloin with mushrooms,10,3
+1512,Seltzer,25,4
+1513,Large sirloin,3.25,4
+1514,"Calves' Head, Vinaigrette",10,1
+1515,Large sirloin tomato sauce,10,1
+1516,"Calves' Brains, Fried",0.5,2
+1517,Large sirloin with onions,1,3
+1518,Broiled Honeycomb Tripe,0.55,3
+1519,Large sirloin with mushrooms,1.25,5
+1520,Vichy,25,2
+1521,"Lyonnaise Tripe, a la Creole",10,4
+1522,Extra sirloin,160,4
+1523,Country Sausage,15,4
+1524,Extra sirloin with mushrooms,3.5,5
+1525,Broiled Kidneys,0.6,1
+1526,Extra sirloin with truffles,10,4
+1527,Roast on toast,0.45,1
+1528,"Stewed Kidneys, Wine Sauce",0.5,2
+1529,Small tenderloin,3.25,1
+1530,Large tenderloin,3.5,5
+1531,Extra filet steak,1,1
+1532,Halibut steak,12.25,4
+1533,Extra filet steak with olives,10,5
+1534,Picked-up codfish in cream,0.5,3
+1535,Extra filet steak tomato sauce,1.2,1
+1536,Striped bass,60,2
+1537,Extra filet steak au beurre d'anchois,10,5
+1538,Extra filet steak with mushrooms,1.5,4
+1539,Baltimore broil,0.6,2
+1540,Extra filet steak aux cepes,1.5,4
+1541,Baltimore fry,40,2
+1542,Extra filet steak with truffles,10,5
+1543,Extra filet steak Bordelaise,1.5,1
+1544,Extra filet steak Bearnaise,1.5,4
+1545,Clam fritters with bacon,2,3
+1546,Pan roast on toast,0.4,1
+1547,Filet Chateaubriand,125,5
+1548,Oyster patty,25,3
+1549,Filet Chateaubriand with mushrooms,150,2
+1550,Filet Chateaubriand a la Financiere,3,1
+1551,Celery broil,0.75,5
+1552,Filet Chateaubriand with truffles,10,3
+1553,Fish balls,25,3
+1554,Lobster a la Newburg,80,4
+1555,Fried Egg Plant,30,4
+1556,Cream punch,0.25,3
+1557,Fried Parsnips,0.4,2
+1558,Salt Fish and Cream,10,1
+1559,"Toda persona que haga uso de vinos no pertenecientes a la casa, pagara $1.00 por botella, $2.00 por Champagne.",10,3
+1560,Oneida Asparagus,0.4,1
+1561,Stewed Mushrooms,50,4
+1562,Coup Manhattan,0.5,2
+1563,French Artichokes,40,5
+1564,Cepes a la Bordelaise,50,1
+1565,Squab Chicken,125,3
+1566,Brussel Sprouts,0.85,1
+1567,Escalloped,0.5,5
+1568,Fried Oyster Plant,0.4,4
+1569,Broiled Capon,3,1
+1570,OYSTERS AND CLAMS,5,2
+1571,Shrimp,60,3
+1572,Anchovy,40,1
+1573,MacLaren's Imperial,0.35,3
+1574,Pan roast,75,1
+1575,Broiled on toast,10,1
+1576,Fancy roast,60,4
+1577,Millar's Paragon,0.25,1
+1578,"Sifon, uno",0.12,4
+1579,Scalloped oysters,1,4
+1580,Little Necks,40,5
+1581,"Grosella, Orchata, Limonada, y Sangria",10,3
+1582,"Ponches de Conac, Rhum, Whisky",0.15,2
+1583,Full Cream,0.2,3
+1584,"Chicken Giblet, with Rice",10,3
+1585,American Club House,0.25,5
+1586,"Irish Stew, Dublin Style",2.55,3
+1587,Vino caliente,0.15,5
+1588,"Stewed Kidneys, Mushrooms",10,4
+1589,"Beef Goulash, with Spaghetti",10,3
+1590,"Vinos Bordeaux, copa grande",0.25,1
+1591,Deviled Kidneys on Toast,0.5,5
+1592,"Maraschino, Chartreuse, Fine, Champagne Benedictine, Kirsch",0.25,3
+1593,Id. solo taza grande,0.12,4
+1594,Chicken Livers en Brochette,40,2
+1595,Lamb Fries,40,1
+1596,Pork Chops Saute a la Robert,0.3,5
+1597,Broiled Sweetbreads,3.25,1
+1598,"Loin Veal Braise, Sliced Tomatoes",10,4
+1599,"Potted Beef, Baked Macaroni",0.3,2
+1600,"Boiled Beef, Horseradish Sauce",0.75,5
+1601,Broiled Sweetbreads with Peas,1.5,4
+1602,"Beef Kidney Saute, with Mushrooms",0.25,2
+1603,"Broiled Sweetbreads, Truffles",1.25,2
+1604,"Catawba, Sweet",10,5
+1605,"Wiener Roast, Onion Sauce, with Spinach",0.3,2
+1606,"Broiled Sweetbreads, with Asparagus tips",1,1
+1607,"Sweetbreads, Breaded, with Tomato Sauce",10,4
+1608,Scotch Woodcock,45,1
+1609,"Chicken Liver Saute on Toast, Mushrooms",0.3,2
+1610,Yorkshire Buck,35,5
+1611,"Calf's Brains, Breaded, Tomato Sauce",0.6,3
+1612,Broiled Fresh Mushrooms on Toast,75,1
+1613,"Fried Chicken, Maryland Style",2.4,1
+1614,"Hot clam broth, cup",0.35,5
+1615,Beef tea,40,5
+1616,Tomato with rice,35,4
+1617,Pea or bean,0.1,4
+1618,Chicken with rice,35,2
+1619,with egg,25,5
+1620,Comsomme Julienne,10,4
+1621,LOBSTER A LA NEWBURG IN CHAFING DISH,75,2
+1622,Raw,50,3
+1623,Lobster plain,1,5
+1624,Lobster a la Diable,10,5
+1625,RELISHES,5,1
+1626,Id. id. con pan,0.2,4
+1627,Puree Bruxelloise,0.35,4
+1628,Plover,125,3
+1629,Id. doble en leche con pan,10,3
+1630,Terrapin in Chafing Dish,2.5,4
+1631,"Mutton Stew, Navarin",0.6,1
+1632,"Lima Beans, Fleurette",0.35,3
+1633,Sous Cloche,1.25,3
+1634,Fresh Mushrooms Broiled,1.25,2
+1635,Celery-Fed Duck,2,5
+1636,Canvas-Back Duck,4.5,4
+1637,Hot roast beef sandwich 25,0.25,2
+1638,Broiled Spring Duckling,150,4
+1639,turkey sandwich 25,0.25,1
+1640,with bacon,75,2
+1641,bacon,3.25,4
+1642,Stanley Pudding,0.35,1
+1643,Fetticus,0.5,5
+1644,Noodles,1.35,1
+1645,Clam broth cup,0.25,4
+1646,Bordeaux,5,4
+1647,Oysters a la Newburg,3.25,2
+1648,Boiled Bermuda Potatoes,20,4
+1649,Westphalia Ham,50,4
+1650,Russia Caviar,10,3
+1651,Fresh Mackerel,60,3
+1652,Imported Frankfurter,0.5,4
+1653,Baked bluefish,0.8,4
+1654,"Boiled cod, egg sauce",0.9,2
+1655,Pate de Foie Gras,150,1
+1656,Panachee,0.6,3
+1657,Ham Sandwich,20,4
+1658,Chicken Sandwich,30,5
+1659,Snipe,75,4
+1660,"fried eggs, two",0.25,2
+1661,Vermicelli,30,2
+1662,Raspberry Water Ice,0.45,1
+1663,"fried eggs, three",0.3,1
+1664,Prime rib roast beef 35 extra cut 50,10,4
+1665,Lamb Chops with Fresh Mushrooms,10,2
+1666,Pickled onions,20,3
+1667,Beets,25,4
+1668,Whole Plain Lobster,1.9,4
+1669,Ruddy Duck,175,5
+1670,Chiffonnade,0.9,1
+1671,Half Plain Lobster,0.95,2
+1672,Anchovy toast,25,3
+1673,Lailah Rookh,0.25,3
+1674,Sliced onions,20,2
+1675,BREAKFAST.,5,5
+1676,EGGS AND OMELETTES,5,2
+1677,Egyptian Bombe,10,5
+1678,Boiled or fried,0.2,4
+1679,Scrambled on toast,2.5,1
+1680,Poached on toast,2.5,1
+1681,Sliced Capon,0.9,5
+1682,Omelet tomato or parsley,10,2
+1683,Spanish omelet,3.75,3
+1684,"Spring Chicken, Roasted",2,3
+1685,"Spring Chicken, Broiled",175,1
+1686,Mignonette Sauce,0.1,5
+1687,"Omelet, plain",20,4
+1688,Tenderloin,100,5
+1689,oyster,1.05,1
+1690,"Pickled Oysters, per plate",10,1
+1691,cheese or ham,10,3
+1692,mushrooms,1.5,2
+1693,Bearnaise,1,1
+1694,SALADS,0.05,5
+1695,Chestnut Parfait,0.65,2
+1696,with kidneys,0.75,1
+1697,Coup Jack,0.5,1
+1698,"Ham or bacon, broiled or fried",0.4,4
+1699,Omelette with jelly,0.75,2
+1700,Squab,125,2
+1701,Pineapple Pie,5,1
+1702,apple,10,3
+1703,peach,1.4,2
+1704,"Pickled Mussels, per plate",10,5
+1705,Manhattan,85,4
+1706,Lettuce and Tomatoes,40,5
+1707,ROASTS,5,4
+1708,Prime ribs of beef,50,4
+1709,"Lamb, mint sauce",30,4
+1710,Stuffed veal,0.25,5
+1711,Broiled,60,3
+1712,Philadelphia chicken,10,1
+1713,"Hamburger steak, plain",1.25,5
+1714,Canada mutton,0.7,1
+1715,Oyster Soup,0.95,3
+1716,Oyster Fritters,20,4
+1717,Oysters stewed in cream,1.1,3
+1718,Cream Broil,0.55,4
+1719,Pickled Lambs' Tongue,10,4
+1720,Double Porterhouse,2,5
+1721,"Wiener Schnitzel, plain",0.7,5
+1722,Potato,25,2
+1723,Waldorf,60,5
+1724,40,10,2
+1725,Chiffonade,75,3
+1726,"BROILED HALF CHICKEN ON TOAST, TO ORDER",10,2
+1727,"BOILED GREEN BLUEFISH, MINCED POTATOES",35,3
+1728,"FRIED HALF CHICKEN, MARYLAND STYLE, TO ORDER",10,1
+1729,FINNAN HADDIE BOILED OR BROILED,35,2
+1730,"DEVILED RIBS, MACARONI",0.35,4
+1731,"Broiled Chicken,whole",10,1
+1732,id. Lanoire,3.5,3
+1733,"BOILED NORTH RIVER SHAD, SARATOGA CHIPS",35,1
+1734,PICKED CODFISH IN CREAM,30,4
+1735,"Broiled Chicken, half",1.2,1
+1736,Baltimore broil of oysters on toast,35,1
+1737,Fried or Broiled Ham,20,2
+1738,Curry of oysters with rice,35,4
+1739,Mushroom Omelet,3.75,1
+1740,Baked Little-Neck clam pie (individual),10,3
+1741,"Eggs, Scrambled",30,3
+1742,"Boiled striped bass, hollandaise potatoes",0.4,3
+1743,Soft clams a la Newburg,35,5
+1744,"Eggs, On Toast",10,2
+1745,"Eggs, Plain Omelet",10,3
+1746,Sweet Potatoes,20,2
+1747,Half and half (Ale and Stout) glass,0.1,1
+1748,Prime Rib Roast,25,4
+1749,Roast filet of beef a la jardiniere,10,2
+1750,Sweet Potatoes Fried,15,2
+1751,mug or Toby,0.15,2
+1752,"Boiled young turkey, oyster sauce",40,3
+1753,Roast Mutton off the Leg,10,2
+1754,Beef stew with vegetables,25,5
+1755,Lyonaise Potatoes,10,5
+1756,Broiled mutton kidneys on toast with bacon,35,2
+1757,Boiled Ham,25,3
+1758,Cross & Blackwells' Mixed Pickles,10,4
+1759,Roast Pork,25,5
+1760,Crackers and Milk,15,3
+1761,Sardines per box,0.35,2
+1762,Rump Steak,40,5
+1763,Rum Omelet,0.6,5
+1764,Oyster Omelet,0.7,1
+1765,Chateau d'Yquem,10,2
+1766,"Eggs, Parsley Omelet",10,2
+1767,"Eggs, Ham Omelet",10,2
+1768,"Cups, (extra)",1,4
+1769,OYSTER OR CLAM COCKTAIL,25,2
+1770,"Fruit pudding, wine sauce",0.15,4
+1771,Minced ham and scrambled eggs,0.6,3
+1772,Pork and beans [special],0.25,2
+1773,Boiled calf's tongue and spinach,0.35,3
+1774,"Squab Pie, Rigolo",1,1
+1775,"Chicken croquettes, new peas",10,4
+1776,"Cold roast spring lamb, sliced tomatoes",0.45,2
+1777,Reed-Birds,75,5
+1778,Fried Onions to Order,0.1,5
+1779,"Broiled squab on toast, lettuce",10,2
+1780,Fried Tomatoes,1,3
+1781,"SMALL TENDERLOIN STEAK, TO ORDER",0.5,4
+1782,Gin Rickey,1.05,2
+1783,Weakfish,30.5,1
+1784,"Hamburger steak, fried onions to order",10,4
+1785,Per glass,0.1,5
+1786,Half schoppen,0.15,4
+1787,French Pan Cakes,0.5,3
+1788,Home Made Pies,3,5
+1789,Porridge milk,10,4
+1790,"Boiled Bermuda onions, cream sauce",0.1,5
+1791,Crullers,5,5
+1792,BROWNED,10,2
+1793,"Corn fritters, cream sauce",0.15,4
+1794,POACHED EGG,0.3,2
+1795,MACARONI WITH CHEESE AU GRATIN,10,5
+1796,"Spinach, German style",0.15,3
+1797,CLAM BROTH,50,5
+1798,Fried egg-plant,20,1
+1799,"Hamburger Steak, with Onions",0.6,2
+1800,New asparagus on toast,0.4,1
+1801,SCHOPPEN,0.5,1
+1802,"Small Steak, Onions",10,3
+1803,"Porter, Ale, Old or New, Glass, Mug or Toby",10,1
+1804,Half schoppen with Seltzer,0.1,3
+1805,"cold asparagus, vinaigrette sauce",10,2
+1806,Wm A. Miles & Co. Pale Ale,10,3
+1807,Bread and Milk,10,2
+1808,Green Seal Stout,10,1
+1809,"Veal Cutlet, breaded",3,2
+1810,White Label Bass,2.4,4
+1811,Bass & Co.'s Pale Ale,0.25,1
+1812,Moctezuma X X X,10,3
+1813,Small steak with fried onions,15,1
+1814,Guiness' Porter,10,3
+1815,Panned,0.2,5
+1816,Small steak with mushrooms,40,3
+1817,George Ehret's Extra Lager Beer,10,2
+1818,Small steak aux truffles,1.15,4
+1819,Milwaukee Lager Beer,0.25,4
+1820,Planked Striped Bass,0.5,4
+1821,Sirloin steak a la Westmoreland,10,5
+1822,Sirloin steak a la bearnaise,1.5,2
+1823,Veal Chops,40,1
+1824,Sirloin steak a la bordelaise,1.5,3
+1825,"Tenderloin Steak, large",1.5,3
+1826,"Lamb Chops, Breaded, Tomato Sauce",1.05,2
+1827,Sirloin steak a la Stanley,1.5,4
+1828,Preserved Pears,0.45,5
+1829,"Mutton Chops, Breaded, Tomato Sauce",0.75,1
+1830,Sirloin steak en casserole,1.5,5
+1831,Extra Sirloin ( 25 minutes ),1.25,3
+1832,Saratoga Victoria Water,0.25,1
+1833,"Fresh mushrooms, sous cloche",3.25,4
+1834,Single English Mutton Chop,0.4,2
+1835,"Fresh mushrooms, broiled",1,4
+1836,Lamb Chops (two),0.75,3
+1837,Brace of English Mutton Chops,0.8,3
+1838,with poached egg,75,2
+1839,Fried Pork Chops with Apples,0.4,3
+1840,Frog's legs a la Haan,1.25,5
+1841,Cider,50,4
+1842,Ice Cold Milk,0.1,1
+1843,Saratoga Potatoes,20,4
+1844,"Lamb chops, breaded, French peas",1,4
+1845,Filet Chateaubriand a la Gould,10,1
+1846,Beefsteak a la tartare,0.9,3
+1847,"Filet Chateaubriand, Mushrooms",2.5,5
+1848,Anheiser-Busch St. Louis Light or Dark Beer on Draught or in Bottles,10,1
+1849,Filet Chateaubriand Financiere,2.5,4
+1850,"Teplitz Mineral Water (oldest spring in Europe), imported by this house",10,2
+1851,with chicken livers,2.25,1
+1852,"Mutton chops, tomato sauce",0.7,3
+1853,Rump Steak with Onions,0.8,1
+1854,Breakfast Sirloin,1,2
+1855,Tongue Sandwich,20,2
+1856,Extra porterhouse,200,3
+1857,Sardine Sandwich,25,4
+1858,"Extra porterhouse, with mushrooms",10,3
+1859,Roast Beef Sandwich,20,4
+1860,Rex Sandwich,0.25,1
+1861,Porterhouse steak aux champignons,2.5,3
+1862,en brochette,0.6,2
+1863,a la Newburg,0.9,5
+1864,Cheese Sandwich,5,2
+1865,Essex Sandwich,10,3
+1866,a la poulette,40,4
+1867,Yorkshire rarebit,0.9,1
+1868,Long Island rarebit,2.6,3
+1869,Porterhouse,3,5
+1870,"Porterhouse, large",10,2
+1871,scalloped,0.75,4
+1872,"Sweetbreads, plain",1.5,4
+1873,"Tenderloin Steak, small",0.8,3
+1874,"Sweetbreads, tomato sauce",1.15,3
+1875,fried,60,2
+1876,"Porterhouse, extra",10,3
+1877,Broiled New York Pigs' Feet,0.4,2
+1878,Broiled breakfast chicken,1.25,3
+1879,Preserved Strawberry,0.2,2
+1880,Broiled large chicken,10,4
+1881,Preserved Cherries,0.75,4
+1882,""" a la Newburg",0.75,5
+1883,"Omlette, with smoked beef",0.4,4
+1884,Paprika schnitzel,3,4
+1885,fricassee,0.6,2
+1886,Preserved Pineapple,0.5,1
+1887,"Omlette, with kidneys",0.5,5
+1888,a la Maryland,0.5,2
+1889,"Chocolate Custard, Sabayon Sauce",10,1
+1890,"Malaga, Brandy Sauce",0.15,5
+1891,stuffed,0.55,2
+1892,Newburg,1.2,5
+1893,Brandied Figs,0.5,5
+1894,Stuffed crabs,1,4
+1895,Crab meat a la Maryland,1,4
+1896,Bowl Custard,0.2,4
+1897,Canape Lorenzo,1.75,3
+1898,Canape capucine,1,1
+1899,"Chicken saute, McDonald",1,5
+1900,Chicken louisianaise,10,3
+1901,Chocolate Eclairs,10,3
+1902,Chicken a la Roosevelt,10,5
+1903,Chicken en casserole,2.5,1
+1904,Wine Jelly,0.5,3
+1905,Bavarian Cream,10,1
+1906,Extra sirloin steak a la bearnaise,10,5
+1907,Extra sirloin steak a la bordelaise,150,2
+1908,Extra sirloin steak a la Stanley,2,1
+1909,Sponge Cake,3,2
+1910,Extra sirloin steak a la Westmoreland,10,4
+1911,Angel Cake,0.5,2
+1912,Small tenderloin steak,50,5
+1913,Macaroons,25,4
+1914,Small tenderloin steak with smothered onions,10,4
+1915,Cafe Parfait,35,1
+1916,Lemon Sherbet,6,1
+1917,Sweetbreads aux petits pois,10,5
+1918,Siberian Punch,0.4,5
+1919,Frozen Pudding,20,1
+1920,Filet chateaubriant,2.5,3
+1921,Sorbet au Maraschino,0.35,3
+1922,Sorbet au Kirsch,0.6,2
+1923,Sorbet au Yvette,10,1
+1924,Small tenderloin steak aux truffles,1,1
+1925,Oolong or English Breakfast Tea,10,3
+1926,Small tenderloin steak with cepes bordelaise,10,3
+1927,Small tenderloin steak a la bearnaise,0.9,2
+1928,Small tenderloin steak aux champignons,0.85,4
+1929,Large tenderloin steak,1,3
+1930,"Lobster broiled, plain",0.8,3
+1931,"Lobster, large",1,4
+1932,"Lobster, stuffed",10,4
+1933,"Little-Neck clams, raw",0.2,4
+1934,Lobster a la Rochelle,0.8,2
+1935,"Moet & Chandon, Imperial Dry, Cuvee, 36, 1889",10,5
+1936,Swiss cheese sandwich,5,3
+1937,Lobster Newburg,30,3
+1938,Lobster a l'indienne,1,5
+1939,Sardellen sandwich,30,5
+1940,Lobster a la norvegienne,1,4
+1941,Fresa,0.13,1
+1942,LimÃ³n,0.13,1
+1943,Vainilla,0.13,1
+1944,PiÃ±a,10,4
+1945,Amantecados,0.13,2
+1946,Caviar sandwich,4,3
+1947,Merengues,0.13,5
+1948,Cuatro frutas,0.13,3
+1949,Arlequines,10,3
+1950,Ponches Ã¡ la Romana,0.13,3
+1951,Lamb Cutlets (two),0.4,3
+1952,Mutton Chops (two),0.4,4
+1953,Mutton Chops (three),0.6,5
+1954,Squash Pie,0.15,3
+1955,Hot roast beef sandwich,22,3
+1956,Raw meat sandwich,0.4,1
+1957,Pate de foie-gras sandwich,1.25,5
+1958,"Soft clams, Newberg",1,4
+1959,Steam soft clams,10,1
+1960,"Pure Russet cider, glass",0.4,1
+1961,Scallops and bacon,1,3
+1962,Scallops sur coquille,10,3
+1963,Cold tongue,35,1
+1964,Baked soft clams a la Haan,10,3
+1965,Zinfandel,4.5,5
+1966,"Boiled eggs, three",0.4,4
+1967,"Scrambled eggs, two",0.25,2
+1968,Imported liver sausage,0.4,5
+1969,Omelet with rum,0.5,4
+1970,Scallops a la poulette,0.8,4
+1971,Scallops a la poulette in a chafing dish,1,2
+1972,FARINA OR CORN STARCH JELLY,0.1,3
+1973,Riesling,8.25,5
+1974,Premier Special Dry,2.25,1
+1975,Imperial,25,3
+1976,"Cream Ale, mug, glass or toby",0.1,5
+1977,Club House sandwich,18,5
+1978,Moctezuma XXX,10,2
+1979,Bartlett Pears,20,1
+1980,Ox Tongue,35,3
+1981,"Whiskey ""Lorne""",0.15,1
+1982,Id. id. con mollete,0.3,1
+1983,"MoÃ©t & Chandon ""Dry Imperial""",7,3
+1984,Moscato d' Asti,3,5
+1985,RESTAURANT,5,1
+1986,1900-4103,10,3
+1987,Schoppen with Seltzer,0.2,3
+1988,Soft Clam Fry,0.6,4
+1989,Soft Clam Stew,1.4,3
+1990,Soft Clams Steamed,0.5,5
+1991,MUSTARD SARDINES,0.25,3
+1992,PLAIN LETTUCE,0.3,2
+1993,Glass,20,3
+1994,CHAMPAGNES.,5,3
+1995,"CORNED BEEF, navel part",0.25,1
+1996,"ROAST BEEF, POTATO SALAD",1,4
+1997,"ROAST TURKEY, CRANBERRY SAUCE",50,5
+1998,"ROAST SPRING LAMB, SLICED TOMATOES",0.45,3
+1999,"ROAST BEECHNUT HAM, MIXED SALAD",10,4
